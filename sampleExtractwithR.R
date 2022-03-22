@@ -1,6 +1,6 @@
 rm(list=ls())                                              # always start with a clean slate
 
-setwd(choose.dir())                                        # sets the directory with the file to process
+setwd(choose.dir())                                        # sets the directory with the files (raster predictors, occurrences data...) to process
 getwd()
 
 speciesData <- openxlsx::read.xlsx(file.choose())          # occurrences data
