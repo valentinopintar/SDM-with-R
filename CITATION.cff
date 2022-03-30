@@ -1,0 +1,9 @@
+cff-version: 1.0.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Pintar
+    given-names: Valentino
+title: "SDM with R"
+version: 0.0.2
+doi: 
+date-released:
