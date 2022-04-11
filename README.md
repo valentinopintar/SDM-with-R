@@ -2,7 +2,7 @@
 
 
 ## sampleExtract
-Preprocessing occurrences points data for Species distribution modelling in R programming language
+Extract value from raster and Preprocessing occurrences points data for Species distribution modelling in R programming language
 
 ### Installation
 
